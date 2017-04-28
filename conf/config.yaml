@@ -1,0 +1,11 @@
+# version 0.1
+#
+#import articles-001.yaml
+#import articles-002.yaml
+
+apiprefix:
+  - "http://short.am/s/35561?s="
+  - "http://shink.in/s/200451?s="
+  - "http://ouo.io/s/2O8oxosn?s="
+
+
