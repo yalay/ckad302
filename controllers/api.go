@@ -39,7 +39,7 @@ func GetDlLinks(c echo.Context) error {
 		Success: 1,
 		Msg:     "vip资源免费下载",
 		DMsg:    "zip压缩包",
-		DTxt:    "非会员有广告页面，点击跳过广告等按钮才会进入网盘下载",
+		DTxt:    "非会员有广告页面，会提示等待几秒后出现跳过广告、GET LINK或者Continue等按钮后点击就可以进入网盘(mail.ru)下载",
 		DLink:   ckUrl,
 	})
 }
